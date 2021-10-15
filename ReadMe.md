@@ -1,4 +1,4 @@
-### Recover to boost 1.58 after installing a newer boost version
+### Recover to boost 1.65 (ubunbu 18.04) after installing a newer boost version
 The following files/folders are required for the recovery
 ```
 sudo rm -rf /usr/include/boost && \
